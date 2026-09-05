@@ -1,4 +1,4 @@
-HR-Analytics-Dashboard | Power BI
+# HR-Analytics-Dashboard | Power BI
 ## 📊 Project Overview
 This project is an HR Analysis Dashboard created using Microsoft Power BI.
 The dashboard helps analyze employee data and provides useful insights into workforce trends, employee demographics, and HR-related metrics.
@@ -34,5 +34,9 @@ Key areas include:
 7. Analyzed the final dashboard
 ## 📷 Dashboard Preview
 🎥 [Click here to watch the HR Analysis Dashboard](./HR%20Analysis%20Dashboard.mp4)
-##Author
-Dnyaneshwari Shitole
+## 📊 Dataset
+📁 [View HR Analytics Dataset](./HR%20Analytics.csv)
+## 👩‍💻 Author
+**Dnyaneshwari Shitole**
+Aspiring Data Analyst
+Skills: Excel | SQL | Python | Power BI | Power Query
