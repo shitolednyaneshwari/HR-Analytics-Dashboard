@@ -33,6 +33,7 @@ Key areas include:
 6. Added filters and KPIs
 7. Analyzed the final dashboard
 ## 📷 Dashboard Preview
-![HR Analysis Dashboard](HR_Dashboard.png)
+## 📷 Dashboard Preview
+<img src="HR_Dashboard.png" alt="HR Analysis Dashboard" width="900">
 ## 👩‍💻 Author
 Dnyaneshwari Shitole
