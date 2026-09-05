@@ -34,5 +34,5 @@ Key areas include:
 7. Analyzed the final dashboard
 ## 📷 Dashboard Preview
 ![HR Analysis Dashboard](Images/HR_Dashboard.png)
-##Author
+## 👩‍💻 Author
 Dnyaneshwari Shitole
