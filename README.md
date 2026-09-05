@@ -36,6 +36,3 @@ Key areas include:
 ![HR Analysis Dashboard](Images/HR_Dashboard.png)
 ##Author
 Dnyaneshwari Shitole
-Dnyaneshwari Shitole
-│   └── HR_Dashboard.png
-└── Docum
