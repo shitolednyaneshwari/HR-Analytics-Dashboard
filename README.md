@@ -12,7 +12,11 @@ This project is an HR Analysis Dashboard created using Microsoft Power BI.
 - Microsoft Excel
 - Data Analysis
 ## Dashboard Demo
-![HR Analysis Dashboard]
+## 📊 Dashboard Demo
+The HR Analysis Dashboard has been created using Microsoft Power BI.
+The dashboard video and dataset are available in the repository files above.
+## 👩‍💻 Author
+**Dnyaneshwari Shitole**
 ## Dataset
 [View HR Analytics Dataset](./HR%20Analytics.csv)
 ## 📷 Dashboard Preview
