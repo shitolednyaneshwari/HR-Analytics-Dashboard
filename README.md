@@ -44,7 +44,7 @@ The dashboard provides useful insights into employee data, attrition, department
 - Job satisfaction ratings can be compared across different job roles.
 ## 🖼️ Dashboard Preview
 ## 📊 Dashboard Preview
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](https://github.com/...)
 ## 👩‍💻 Created By
 **Dnyaneshwari Shitole**
 Data Analytics | Power BI Project
