@@ -43,7 +43,8 @@ The dashboard provides useful insights into employee data, attrition, department
 - Education fields can be analyzed to understand employee distribution.
 - Job satisfaction ratings can be compared across different job roles.
 ## 🖼️ Dashboard Preview
-![HR Analytics Dashboard](Dashboard/HR_Analytics_Dashboard.png)
+## 📊 Dashboard Preview
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 ## 👩‍💻 Created By
 **Dnyaneshwari Shitole**
 Data Analytics | Power BI Project
